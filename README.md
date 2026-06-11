@@ -30,19 +30,19 @@ A professional AI-powered FAQ Chatbot developed using Python, Streamlit, Pandas,
 
 ### Home Page
 
-![Home Page](screenshots/home_page.png)
+![Home Page](homepage.png)
 
 ### Chatbot Response
 
-![Chatbot Response](screenshots/chatbot_response.png)
+![Chatbot Response](result.png)
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
-### Features
+### Expanded FAQ Section
 
-![Features](screenshots/features.png)
+![Expanded FAQ Section](expanded%20FAQ%20section.png)
 
 ## 📂 Project Structure
 
